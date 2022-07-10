@@ -1,0 +1,58 @@
+.fundo-branco{
+    height: 542px;
+    padding: 48px 210px 89px 239px;
+    box-sizing: border-box;
+    background: white;
+}
+
+.primeiro{
+    background: url('../img/ilustra-blog.png') 100% 0px no-repeat;
+    height: 405px;  
+    padding: 74px 479px 73px 0;
+}
+
+.primeiro h1{
+    width: 512px;
+    font-size: 47px;
+    font-weight: 700;
+    color: #009688;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+.primeiro p{
+    margin: 0;
+    font-size: 20px;
+    font-weight: 300;
+    width: 461px;
+}
+
+.fundo-cinza{
+    background: #E5E5E5;
+    padding: 109px 113px 70px 171px;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.post{
+    height: 411px;
+    width: 518px;
+    margin-bottom: 100px;
+}
+
+.post a{
+    font-size: 30px;
+    font-weight: 500;
+    color:#FF4081;
+    margin: 19px 0;
+    text-decoration: none;
+}
+
+.post p{
+    font-size: 17px;
+    font-weight: 300;
+    margin: 0;
+}

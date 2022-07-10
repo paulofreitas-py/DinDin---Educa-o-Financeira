@@ -1,0 +1,71 @@
+main .container{
+    display: block;
+    padding: 81px 114px 129px 82px;
+    margin: 0;
+    max-width: 1440px;
+    font-family: 'Ubuntu', sans-serif;
+    box-sizing: border-box;
+}
+
+.container h1{
+    font-size: 69px;
+    font-weight: 700;
+    color: #FF4081;
+    margin: 0;
+}
+
+.container h4{
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.curso{
+    display: flex;
+    padding: 0 57px 73px 30px;
+    border-bottom: 5px solid #C4C4C4;
+    padding-top: 98px;
+}
+
+#primeiro-h2{
+    margin-top: 21px;
+}
+
+.curso:nth-last-child(1){
+    border: none;
+}
+
+.curso:nth-last-child(1) h2{
+    margin-top: 63px;
+}
+
+.curso img{
+    width: 380px;
+    height: auto;
+    margin-right: 53px;
+}
+
+.container section h2{
+    font-size: 35px;
+    font-weight: 700;
+    color: #FF4081;
+    margin: 0;
+}
+
+.container section p{
+    font-size: 18px;
+    font-weight: 300;
+    margin: 37px 0 66px 0;
+}
+
+.container section a{
+    background: #419488;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    border: 1px solid #419488;
+    border-radius: 62px;
+    text-decoration: none;
+    width: 233px;
+    padding: 13px 8px 13px 9px;
+}
